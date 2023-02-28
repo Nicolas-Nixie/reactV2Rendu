@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.12",
+    "@heroicons/react": "^2.0.16",
     "firebase": "^9.17.1",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.1",
